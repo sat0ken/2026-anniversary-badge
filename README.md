@@ -1,5 +1,7 @@
 # 2026-anniversary-badge
 
+[English version / 英語版 README はこちら](./README_EN.md)
+
 このリポジトリは Women Who Go Tokyo 10 周年記念バッジ (通称 `wwgt2026badge`) のファームウェア / 回路図 / 組み立てガイドをまとめたものです。
 RP2040 Zero と TinyGo を組み合わせた、はんだ付けから始められるワークショップ向けキットです。
 

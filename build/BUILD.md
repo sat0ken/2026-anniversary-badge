@@ -1,5 +1,7 @@
 # 2026-anniversary-badge ビルドガイド
 
+[English version / 英語版ビルドガイドはこちら](./BUILD_EN.md)
+
 このドキュメントは Women Who Go Tokyo 10 周年記念バッジ (`wwgt2026badge`) の組み立て手順をまとめたものです。はんだ付けに少し慣れている方なら 1 〜 2 時間程度で完成します。
 
 ## パーツ一覧
