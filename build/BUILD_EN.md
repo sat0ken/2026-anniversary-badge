@@ -24,7 +24,7 @@ This document describes the assembly procedure for the Women Who Go Tokyo 10th A
 | 12 | [Grove connector](https://akizukidenshi.com/catalog/g/g112634/)                                                                                    | 1 |                      |
 | 13 | [Pin socket 9-pin](https://akizukidenshi.com/catalog/g/g110100/)                                                                                   | 2 | For RP2040 Zero      |
 | 14 | [Pin socket 5-pin](https://akizukidenshi.com/catalog/g/g102762/)                                                                                   | 1 | For RP2040 Zero      |
-| 15 | [Pin socket 8-pin](https://akizukidenshi.com/catalog/g/g103785/)                                                                                   | 1 | For ST7789 LCD       |
+| ~~15~~ | ~~[Pin socket 8-pin](https://akizukidenshi.com/catalog/g/g103785/)~~                                                                                   | ~~1~~ | ~~For ST7789 LCD~~       |
 | 16 | Hat                                                                                                                                                | 1 | For the joystick     |
 | 17 | Switch plate                                                                                                                                       | 1 |                      |
 | 18 | Bottom plate                                                                                                                                       | 1 |                      |
@@ -124,7 +124,7 @@ Solder the remaining pins to finish.
 Install the following pin sockets on the front side of the PCB.
 
 - **9-pin × 2 + 5-pin × 1** : for the RP2040 Zero
-- **8-pin × 1** : for the ST7789 LCD
+- ~~**8-pin × 1** : for the ST7789 LCD~~
 
 If a pin socket is lifted or tilted, the component plugged into it later will sit at an angle. Some effort is needed to keep them vertical.
 
@@ -175,9 +175,9 @@ Once it is vertical, solder the remaining pins from the top side.
 
 ## ![Working face - Front](https://img.shields.io/badge/Working_face-Front-2ea44f) Step 9. Install the ST7789 LCD
 
-Insert the ST7789 LCD module into the **8-pin pin socket** installed in Step 5. No soldering is required.
+~~Insert the ST7789 LCD module into the **8-pin pin socket** installed in Step 5. No soldering is required.~~
 
-The pin header that comes with the LCD module fits directly into the 8-pin pin socket.
+~~The pin header that comes with the LCD module fits directly into the 8-pin pin socket.~~
 **Make sure the display side faces forward (towards the front of the badge).**
 Be careful not to put pressure on the flexible cable or the display face with your fingers.
 
